@@ -14,7 +14,7 @@ char list[][2048]	: The array of strings to search in
 int anz				: Number of strings in the array  
 char search[]		: The phrase to search for  
 colored				: 1 for build-in highlighting, 0 for no  
-int color			: Color selector, recommended to use normal ASCI colors 31-36(37)  
+int color			: Color selector, recommended to use normal ANSI colors 31-36(37)  
 
 Example Usage:
 ```C
